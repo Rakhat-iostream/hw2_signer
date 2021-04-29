@@ -1,1 +1,3 @@
-module "hw2_signer"
+module hw2_signer
+
+go 1.15
